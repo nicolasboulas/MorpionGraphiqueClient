@@ -9,6 +9,10 @@ void main()
 {
 	client leClient;
 
+	leClient.CroixRond();
+
+	leClient.Premier();
+
 	leClient.envoyerCase("1", "2");
 }
 
